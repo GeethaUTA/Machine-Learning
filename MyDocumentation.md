@@ -19,5 +19,10 @@ a binary classification task where we refer to our two classes as 1 (positive cl
 takes a linear combination of certain input values, x, and a corresponding weight 
 vector, w, where z is the so-called net input
   ![image](https://github.com/GeethaUTA/Machine-Learning/assets/144622684/632fff86-1afd-4ba7-9e0e-26b5f97f9f2c)
+* **General Concept of Perceptron**
+* ![image](https://github.com/GeethaUTA/Machine-Learning/assets/144622684/73755341-afb1-4a8f-a8e1-3e6acab687f4)
+* 
+
+  
 
 
