@@ -22,6 +22,7 @@
 ### Since KNN is metric dependent(DISTANCE) , Feature Scalling is very important.
 ## KNN in nutshell
  ![image](https://github.com/GeethaUTA/Machine-Learning/assets/144622684/19c8552a-548f-42fe-8b5b-50dd36e245af)
+* Time complexity of KNN is O(n) ,n--number of training samples
 
   
 
